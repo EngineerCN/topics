@@ -18,7 +18,7 @@
 | 2021/12/26<br>10:00-11:00AM | 区块链与游戏结合案例|https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md<br>ZoomLink:https://us04web.zoom.us/j/75862124745?pwd=dE1uS1VMdFdBRVhOSERPNjdvbExNdz09<br>密码：8888|Ken|投票中|刘洋|
 || 区块链游戏开发（一）||Ken|准备中||
 || 互联网从业人员职业生涯规划||Ken|准备中||
-|| 使用Rust语言编写Docker||Ken|准备中||
-|| 设计一门开发语言Cat||Ken|准备中||
+|| 使用Rust语言编写Docker（一）||Ken|准备中||
+|| 设计一门开发语言Cat（一）||Ken|准备中||
 
 
