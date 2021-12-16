@@ -17,6 +17,6 @@
 | :----:| :----: | :----:| :----: | :----: |
 | 2021/12/26<br>10:00-11:00AM | 区块链与游戏结合案例|https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md<br>ZoomLink:https://us04web.zoom.us/j/75862124745?pwd=dE1uS1VMdFdBRVhOSERPNjdvbExNdz09<br>密码：8888|Ken|刘洋|
 || 区块链游戏开发（一）||Ken||
-|| 创建属于自己公有链（一）||Ken||
+|| 互联网从业人员职业生涯规划||Ken||
 
 
