@@ -14,6 +14,5 @@
 
 |时间|课题|内容链接|分享人|Zoom Link|投票人(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: | :----: |
-| 2022/01/02 | 区块链与游戏结合案例 |https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md|
-https://us04web.zoom.us/j/75862124745?pwd=dE1uS1VMdFdBRVhOSERPNjdvbExNdz09| Ken ||
+| 2022/01/02 | 区块链与游戏结合案例 |https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md|https://us04web.zoom.us/j/75862124745?pwd=dE1uS1VMdFdBRVhOSERPNjdvbExNdz09|Ken||
 
