@@ -17,7 +17,7 @@
 
 # 将分享课题列表
 
-|时间|课题|内容链接|分享人|状态|投票人(请标注你的名字)|
+|时间|课题|内容链接|分享人|状态|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |:----:|
 | 2021/12/26<br>10:00-11:00AM | 区块链与游戏结合案例|https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md<br>ZoomLink:https://us04web.zoom.us/j/75862124745?pwd=dE1uS1VMdFdBRVhOSERPNjdvbExNdz09<br>密码：8888|Ken|投票中|刘洋|
 || JS开发公链及加密货币NewCoin（一）||Ken|准备中||
