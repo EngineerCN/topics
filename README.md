@@ -22,5 +22,5 @@
 || 使用Rust语言编写Docker（一）||Ken|准备中||
 || 设计一门开发语言Cat（一）||Ken|准备中||
 || JS模版引擎开发||Ken|准备中||
-
+|| OpenSource DevSecOps实践（一）||Ken|准备中||
 
