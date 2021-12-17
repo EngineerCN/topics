@@ -27,5 +27,5 @@
 || 设计一门开发语言Cat（一）||Ken|准备中||
 || JS模版引擎开发||Ken|准备中||
 || OpenSource DevSecOps实践（一）||Ken|准备中||
-|| 前端自动化部署实践（一）：gitlabci/jenkins||刘洋|准备中||
-|| 前端自动化部署实践（二）：sonar+aws s3||刘洋|准备中||
+|| 前端自动化部署实践（一）<br>gitlabci/jenkins||刘洋|准备中||
+|| 前端自动化部署实践（二）<br>sonar+aws s3||刘洋|准备中||
