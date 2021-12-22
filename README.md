@@ -29,3 +29,4 @@
 || OpenSource DevSecOps实践（一）||Ken|准备中||
 || 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋|准备中||
 || 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋|准备中||
+|| 如何使用大数据思维挖掘用户需求 ||熊猫|准备中||
