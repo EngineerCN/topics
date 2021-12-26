@@ -33,3 +33,4 @@
 || 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋||
 || 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋||
 || 如何使用大数据思维挖掘用户需求 ||熊猫||
+|| JS模版引擎开发Scissor(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/scissor|Ken||
