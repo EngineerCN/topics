@@ -18,7 +18,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-||||||
+| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md|Ken||
 
 # 准备中
 
@@ -29,7 +29,6 @@
 || 互联网从业人员职业生涯规划||Ken||
 || 使用Rust语言编写Docker（一）||Ken||
 || 设计一门开发语言Cat（一）||Ken||
-|| JS模版引擎开发|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md|Ken||
 || OpenSource DevSecOps实践（一）||Ken||
 || 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋||
 || 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋||
