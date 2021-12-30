@@ -18,7 +18,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发Scissor(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/scissor|Ken||
+| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发Scissor(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/scissor|Ken|刘洋|
 
 # 准备中
 
