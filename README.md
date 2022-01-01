@@ -18,7 +18,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发ckl-tmpl(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/ckl-tmpl<br>腾讯会议：https://meeting.tencent.com/dm/IUl9DEAbGD3U|Ken|刘洋 sampaul|
+| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发js-tmpl(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/js-tmpl<br>腾讯会议：https://meeting.tencent.com/dm/IUl9DEAbGD3U|Ken|刘洋 sampaul|
 
 # 准备中
 
@@ -33,7 +33,7 @@
 || 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋||
 || 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋||
 || 如何使用大数据思维挖掘用户需求 ||熊猫||
-|| JS模版引擎开发ckl-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/ckl-tmpl|Ken||
+|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发.md<br>https://github.com/chankamlam/js-tmpl|Ken||
 || JS开发MVC框架Flow(一)||Ken||
 || 密码学的前世今生(-)--古典密码学||sampaul||
 || 密码学的前世今生(-)--现代密码学||sampaul||
