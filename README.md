@@ -24,7 +24,7 @@
 
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-|| JS开发公链及加密货币NewCoin（一）||Ken|刘洋|
+|| JS开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md|Ken|刘洋|
 || 区块链游戏开发（一）||Ken||
 || 互联网从业人员职业生涯规划||Ken||
 || 使用Rust语言编写Docker（一）||Ken||
