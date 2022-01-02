@@ -13,12 +13,12 @@
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
 | 2021/12/26<br>10:00-11:00AM | 区块链与游戏结合案例|https://github.com/EngineerCN/content/blob/main/区块链与游戏结合案例.md<br>腾讯会议：681720473<br>密码：8888<br>视频：https://meeting.tencent.com/user-center/shared-record-info?id=d0fb581a-05e4-45c3-a373-df63a1ff1dc5&is_webview=1&from=5&click_source_for_middle_login=2|Ken|刘洋|
-
+| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发js-tmpl(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(一).md<br>https://github.com/chankamlam/js-tmpl<br>腾讯会议：https://meeting.tencent.com/dm/IUl9DEAbGD3U<br>视频：https://meeting.tencent.com/user-center/shared-record-info?id=27daf138-0237-4cab-a643-1ea87e1571af&is_webview=1&from=5&click_source_for_middle_login=2|Ken|刘洋 sampaul|
 
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-| 2022/1/2<br>10:00-11:00AM | JS模版引擎开发js-tmpl(一)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(一).md<br>https://github.com/chankamlam/js-tmpl<br>腾讯会议：https://meeting.tencent.com/dm/IUl9DEAbGD3U|Ken|刘洋 sampaul|
+
 
 # 准备中
 
