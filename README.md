@@ -18,13 +18,13 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl|Ken||
 || 算法：双指针之对撞指针|https://github.com/EngineerCN/content/blob/main/%E7%AE%97%E6%B3%95.md<br>|小杜同学||
 
 # 准备中
 
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
+|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl|Ken||
 || JS开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md|Ken|刘洋|
 || 区块链游戏开发（一）||Ken||
 || 互联网从业人员职业生涯规划||Ken||
