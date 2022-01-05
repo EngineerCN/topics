@@ -18,7 +18,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-|| 算法：双指针之对撞指针|https://github.com/EngineerCN/content/blob/main/%E7%AE%97%E6%B3%95.md<br>|小杜同学||
+|| 算法：双指针之对撞指针|https://github.com/EngineerCN/content/blob/main/%E7%AE%97%E6%B3%95.md<br>|小杜同学|Ken|
 
 # 准备中
 
