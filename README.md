@@ -25,18 +25,18 @@
 
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|备注
 | :----:| :----: | :----:| :----: | :----: | :----: |
-| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl|Ken||
-| JS开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md|Ken|刘洋|
-| 区块链游戏开发（一）||Ken||
-| 互联网从业人员职业生涯规划||Ken||
-| 使用Rust语言编写Docker（一）||Ken||
-| 设计一门开发语言Cat（一）||Ken||
-| OpenSource DevSecOps实践（一）||Ken||
-| 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋||暂无时间
-| 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋||暂无时间
-| 如何使用大数据思维挖掘用户需求 ||熊猫||
-| JS开发MVC框架Flow(一)||Ken||
-| 密码学的前世今生(-)--古典密码学||sampaul|小鱼|
-| 密码学的前世今生(-)--现代密码学||sampaul||
-| 密码学的前世今生(-)--未来密码学||sampaul||
+|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl|Ken||
+|| JS开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md|Ken|刘洋|
+|| 区块链游戏开发（一）||Ken||
+|| 互联网从业人员职业生涯规划||Ken||
+|| 使用Rust语言编写Docker（一）||Ken||
+|| 设计一门开发语言Cat（一）||Ken||
+|| OpenSource DevSecOps实践（一）||Ken||
+|| 前端自动化部署实践（一）<br>GitlabCi/Jenkins||刘洋||暂无时间
+|| 前端自动化部署实践（二）<br>Sonar+Aws S3||刘洋||暂无时间
+|| 如何使用大数据思维挖掘用户需求 ||熊猫||
+|| JS开发MVC框架Flow(一)||Ken||
+|| 密码学的前世今生(-)--古典密码学||sampaul|小鱼|
+|| 密码学的前世今生(-)--现代密码学||sampaul||
+|| 密码学的前世今生(-)--未来密码学||sampaul||
 
