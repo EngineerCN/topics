@@ -19,7 +19,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl|Ken||
+|| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl<br>https://meeting.tencent.com/dm/xwCD8mg3JSVe|Ken||
 |2022-01-23(暂定)| 行为金融 | https://github.com/EngineerCN/content/blob/main/行为金融学.md |sampaul | |
 
 # 准备中
