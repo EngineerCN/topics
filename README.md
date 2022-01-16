@@ -21,12 +21,11 @@
 | :----:| :----: | :----:| :----: | :----: |
 |2022-01-16<br>10am-11:am| JS模版引擎开发js-tmpl(二)|https://github.com/EngineerCN/content/blob/main/JS模版引擎开发js-tmpl(二).md<br>https://github.com/chankamlam/js-tmpl<br>腾讯会议https://meeting.tencent.com/dm/xwCD8mg3JSVe|Ken||
 |2022-01-23(暂定)| 行为金融 | https://github.com/EngineerCN/content/blob/main/行为金融学.md |sampaul | |
-
+|| JS&GO开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md<br>https://github.com/chankamlam/js-blockchain|Ken|刘洋|
 # 准备中
 
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|备注
 | :----:| :----: | :----:| :----: | :----: | :----: |
-|| JS开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md|Ken|刘洋|
 || 区块链游戏开发（一）||Ken||
 || 互联网从业人员职业生涯规划||Ken||
 || 使用Rust语言编写Docker（一）||Ken||
