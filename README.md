@@ -41,3 +41,11 @@
 || 行为金融学简述||sampaul||
 || JS开发类ZooKeeper框架judger（一）||Ken||
 || C/C++开发shell指令（一）||Ken||
+|| 容器技术系列Docker&DockerCompose（一）||Ken||
+|| 容器技术系列Kubernetes（一）||Ken||
+|| Infrastruct As Code系列（一）Vagrant||Ken||
+|| Infrastruct As Code系列（二）Ansible||Ken||
+|| Infrastruct As Code系列（三）Hlem||Ken||
+|| Infrastruct As Code系列（四）Packer||Ken||
+|| 开发一个开源手绘动画引擎||Ken||
+|| 开发一个开源JS游戏引擎及一款MMRPG页游||Ken||
