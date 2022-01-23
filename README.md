@@ -21,7 +21,7 @@
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
 |2022-01-23(暂定)| 行为金融 | https://github.com/EngineerCN/content/blob/main/行为金融学.md |sampaul | |
-|| JS&GO开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md<br>https://github.com/chankamlam/js-blockchain<br>https://meeting.tencent.com/dm/OHNkzVb6LTne|Ken|刘洋|
+|| JS&GO开发公链及加密货币NewCoin（一）|https://github.com/EngineerCN/content/blob/main/JS开发公链及加密货币NewCoin(一).md<br>https://github.com/chankamlam/js-blockchain<br>视频：https://meeting.tencent.com/dm/OHNkzVb6LTne|Ken|刘洋|
 # 准备中
 
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|备注
