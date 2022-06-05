@@ -21,7 +21,7 @@
 # 投票中
 |时间|课题|内容链接|分享人|投票人<br>(请标注你的名字)|
 | :----:| :----: | :----:| :----: | :----: |
-|2022/6/5| Leetcode 刷題分享|[https://github.com/EngineerCN/content/blob/main/Leetcode 刷題分享.md](https://github.com/EngineerCN/content/blob/main/Leetcode%20%E5%88%B7%E9%A1%8C%E5%88%86%E4%BA%AB.md)<br> VooV 会议: https://voovmeeting.com/dm/swJQNiyoyoKW </br> 视频：待上传|John||
+|2022/6/5| Leetcode 刷題分享|[https://github.com/EngineerCN/content/blob/main/Leetcode 刷題分享.md](https://github.com/EngineerCN/content/blob/main/Leetcode%20%E5%88%B7%E9%A1%8C%E5%88%86%E4%BA%AB.md)<br> VooV 会议: https://voovmeeting.com/dm/swJQNiyoyoKW </br>密码:2022</br> 视频：待上传|John||
 
 # 准备中
 
